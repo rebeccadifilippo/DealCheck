@@ -138,3 +138,5 @@ npx expo start
 We developed DealCheck to address a critical gap in the car buying process: the lack of comprehensive, unbiased analysis tools available to everyday consumers. Car dealerships and professional buyers have access to sophisticated tools and insider knowledge to assess vehicle values, but individual buyers often rely on gut feeling or limited information.
 
 DealCheck democratizes access to expert-level car valuation by combining multiple evaluation systems, machine learning, and market data into a user-friendly application that anyone can use. Our goal is to level the playing field and ensure that every car buyer can make confident, well-informed decisions based on reliable data and expert analysis.
+
+
